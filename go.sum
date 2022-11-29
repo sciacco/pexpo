@@ -1,0 +1,10 @@
+github.com/dariubs/percent v0.0.0-20161012123256-6a210960ed74 h1:OcYBgVYB66rbiT78If89zFMnV6+0OumWyy8mSsGtNrQ=
+github.com/dariubs/percent v0.0.0-20161012123256-6a210960ed74/go.mod h1:NqjuQSHe8CjRVziJtxGCQDmOwoj68QdlKRkbddHfRtY=
+github.com/mattn/go-runewidth v0.0.2 h1:UnlwIPBGaTZfPQ6T1IGzPI0EkYAQmT9fAEJ/poFC63o=
+github.com/mattn/go-runewidth v0.0.2/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
+github.com/nsf/termbox-go v0.0.0-20171104162316-aa4a75b1c20a h1:USZ2AkITyiH9LzgIrssF9S5mRQhbRvvTkAFlJHiWmfg=
+github.com/nsf/termbox-go v0.0.0-20171104162316-aa4a75b1c20a/go.mod h1:IuKpRQcYE1Tfu+oAQqaLisqDeXgjyyltCfsaoYN18NQ=
+github.com/tatsushid/go-fastping v0.0.0-20160109021039-d7bb493dee3e h1:nt2877sKfojlHCTOBXbpWjBkuWKritFaGIfgQwbQUls=
+github.com/tatsushid/go-fastping v0.0.0-20160109021039-d7bb493dee3e/go.mod h1:B4+Kq1u5FlULTjFSM707Q6e/cOHFv0z/6QRoxubDIQ8=
+golang.org/x/net v0.0.0-20171115151908-9dfe39835686 h1:fxZ+mPcFhowcPZdlXrTF3GFhWVr/3wZyXQ8xW8WYGLU=
+golang.org/x/net v0.0.0-20171115151908-9dfe39835686/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
